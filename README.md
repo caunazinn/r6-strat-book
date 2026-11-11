@@ -5,6 +5,10 @@ Planejador tático web para **Rainbow Six Siege**. Veja os blueprints dos mapas 
 > Projeto de fã, sem vínculo com a Ubisoft. Rainbow Six Siege e os materiais do jogo são marcas e propriedade da Ubisoft.
 
 
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/d789b908-71eb-422e-8ebf-59706913b83b" />
+
+
+
 
 ## Funcionalidades
 
