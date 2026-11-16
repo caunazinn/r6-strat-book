@@ -2,8 +2,7 @@
 
 Planejador tático web para **Rainbow Six Siege**. Veja os blueprints dos mapas competitivos, desenhe rotas de ataque e defesa, posicione operadores, marque paredes reforçadas, breaches e drones, e compartilhe a strat com o time por link.
 
-Link do app - r6-strat-book-gamma.vercel.app
-
+🔗 **Acesse a aplicação:** [r6-strat-book-gamma.vercel.app](https://r6-strat-book-gamma.vercel.app/)
 
 > Projeto de fã, sem vínculo com a Ubisoft. Rainbow Six Siege e os materiais do jogo são marcas e propriedade da Ubisoft.
 
